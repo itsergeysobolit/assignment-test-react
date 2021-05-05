@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **[View live preview on Github Pages](https://itsergeysobolit.github.io/assignment-test-react/)**
 
-## Quick Start
+## Before `npm start`
 
 Need to start cors-anywhere to make it work. [How to start cors-anywhere](https://github.com/itsergeysobolit/assignment-test/blob/master/readme.md)
 
